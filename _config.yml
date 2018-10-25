@@ -23,6 +23,7 @@ twitter_username: LuimaGroup
 github_username:  luimagroup
 
 # Build settings
+github: [metadata] 
 markdown: kramdown
 theme: minima
 #remote_theme: jekyll-theme-modernist
