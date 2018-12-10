@@ -7,8 +7,9 @@ exclude: true
 
 # Spring 2019 Course Website
 
-**CMU**: Course number tba, 12 units  
-**Pitt**: Law 5719, 3cr  
+**CMU**: Course number 11-646 (graduate), 11-546 (undergraduate), 12 units  
+**Pitt**: Law 5719, Class # 30523, 3cr  
+**Times**: Mondays 10:30-11:50pm, CMU Porter Hall 125C; Wednesdays 10:30-11:50pm, Pitt Barco Law Building G20  
 
 # Instructors
 [Matthias Grabmair](http://www.andrew.cmu.edu/user/mgrabmai), Systems Scientist, CMU LTI  
