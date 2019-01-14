@@ -29,7 +29,7 @@ The course will cover the following topical progression:
 * **Fair Machine Learning under Nondiscrimination Imperatives**
 * **Basics of Natural Language Processing**
 * **Legal Text Analytics** including annotation, rule-based & ML-based text processing, and information retrieval
-* **Legal Topics Related to AI** including Legal Liability of Autonomous Vehicles and Personal Care Robotics
+* **Legal Topics Related to AI** including Legal Liability of Autonomous Vehicles and AI & Data Privacy
 
 # Learning Outcomes
 After completing this course, and depending on students’ focus in the course project, they will have gained:
